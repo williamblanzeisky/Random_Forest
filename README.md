@@ -8,3 +8,7 @@
 6. Using GridSearch to hypertune decision tree parameter
 7. Evaluate model using AUROC score
 
+
+Correction:
+- class = balance should be used since the data is imbalanced
+- should have added xlabel and ylabel on the confusion matrix
